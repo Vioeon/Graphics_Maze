@@ -3,7 +3,7 @@
 Java Script와 html을 이용하여 미로게임을 제작하였다.
 
 <br>
-## 시작화면
+## 시작화면  
 <img width="60%" src="https://user-images.githubusercontent.com/31684326/170030766-15f5b2ee-d2a7-4af7-87a3-dc7aeffc2146.jpg">   
 
 - 밑에있는 방향키를 눌러 이동할 수 있다.
